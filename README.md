@@ -1,6 +1,6 @@
 # Welcome to the Listen.moe v3 Documentation
 
-**Note that v4 is coming soon. See [the main documentation site](https://listen-moe.github.io/documentation/)**
+**v4 is out. See [the main documentation site](https://listen-moe.github.io/documentation/)**
 
 The list of public endpoints include:
 
